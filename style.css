@@ -114,7 +114,6 @@ body{
 }
 /*section de recherche */
 #main8 {
-    
     display: block;
     margin-top: 30px;
     margin-left: 0px;
@@ -454,7 +453,6 @@ footer p{
     color: #fff;
     font-size: 18px;
     margin-left: 30px;
-    
     font-family: Arial, Helvetica, sans-serif;
 }
 #voitures_del select{
